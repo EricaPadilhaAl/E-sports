@@ -1,2 +1,2 @@
-# E-sports
-CriandoSite em HTML 
+# ProjetoSenai
+Projeto ainda em desenvolvimento usando HTML, CSS e Bootstrap

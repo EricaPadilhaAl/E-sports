@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"name": "E.Campeonatos",
+			"path": "../../E.Campeonatos"
+		},
+		{
+			"name": "imagens",
+			"path": "../imagens"
+		},
+		{
+			"name": "paginas",
+			"path": "."
+		},
+		{
+			"name": "font",
+			"path": "../font"
+		}
+	],
+	"settings": {}
+}
